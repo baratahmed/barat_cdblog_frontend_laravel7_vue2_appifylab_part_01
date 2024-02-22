@@ -40,7 +40,7 @@
     </div>
 </div>
 <div class="footer_copy_right">
-    <p>© 2021 Appifylab. All rights reserved</p>
+    <p><script>document.write(new Date().getFullYear())</script> © BitRain. All rights reserved</p>
 </div>
 <!-- FOOTER -->
 

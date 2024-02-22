@@ -43,7 +43,7 @@
 											</div>
 											<div class="post_author_info">
 											<a href="{{url('/contact')}}"><h4 class="post_author_title">{{$blog->user->fullName}}</h4></a>
-												<P>Avi is a full-stack developer skilled with Python, Javascript and many other language</P>
+												<P>is a full-stack developer skilled with Python, Javascript and many other language</P>
 											</div>
 										</div>
 										<div class="post_author_r8">
